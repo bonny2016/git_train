@@ -1,4 +1,5 @@
-''' a square function '''
+''' a square function
+oh really'''
 def my_square(x):
 	return (x**2)
 
